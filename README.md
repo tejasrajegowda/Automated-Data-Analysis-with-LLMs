@@ -1,4 +1,4 @@
-# Automated Data Analysis
+# Automated Data Analysis with LLMs
 
 This project automates dataset analysis using an LLM to extract insights, generate visualizations, and narrate findings in a structured report.
 
