@@ -1,4 +1,4 @@
-# Automated Ecosystem Data Analysis
+# Automated Data Analysis
 
 This project automates dataset analysis using an LLM to extract insights, generate visualizations, and narrate findings in a structured report.
 
